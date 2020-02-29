@@ -1,0 +1,2 @@
+Hello and welkome to my Kali-Linux Portable Ethical Hacking-Station (or KLPEHS) 
+I will give you all necessary details to build,setup and run your software Kali-Linux.
