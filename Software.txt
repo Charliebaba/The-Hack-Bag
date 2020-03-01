@@ -1,9 +1,0 @@
-First:
-
-Download Balena Etcher
-Download the Kali-Linux OS
-
-
-Then:
-Flash the OS using Balena Etcher on you micro sd card
-Put the card into your pi and hook it up to power and a hdmi monitor aswell as a mouse and keyboard
